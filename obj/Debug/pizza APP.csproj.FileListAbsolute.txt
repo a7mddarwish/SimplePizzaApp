@@ -1,0 +1,14 @@
+C:\Users\METRA\Desktop\pizza APP\bin\Debug\pizza APP.exe.config
+C:\Users\METRA\Desktop\pizza APP\bin\Debug\pizza APP.exe
+C:\Users\METRA\Desktop\pizza APP\bin\Debug\pizza APP.pdb
+C:\Users\METRA\Desktop\pizza APP\obj\Debug\pizza APP.csproj.AssemblyReference.cache
+C:\Users\METRA\Desktop\pizza APP\obj\Debug\pizza APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\METRA\Desktop\pizza APP\obj\Debug\pizza_APP.LoginForm.resources
+C:\Users\METRA\Desktop\pizza APP\obj\Debug\pizza_APP.Properties.Resources.resources
+C:\Users\METRA\Desktop\pizza APP\obj\Debug\pizza APP.csproj.GenerateResource.cache
+C:\Users\METRA\Desktop\pizza APP\obj\Debug\pizza APP.csproj.CoreCompileInputs.cache
+C:\Users\METRA\Desktop\pizza APP\obj\Debug\pizza APP.exe
+C:\Users\METRA\Desktop\pizza APP\obj\Debug\pizza APP.pdb
+C:\Users\METRA\Desktop\pizza APP\obj\Debug\pizza_APP.MainForm.resources
+C:\Users\METRA\Desktop\pizza APP\bin\Debug\Guna.UI2.dll
+C:\Users\METRA\Desktop\pizza APP\obj\Debug\pizza APP.csproj.CopyComplete
